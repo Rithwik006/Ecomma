@@ -1,0 +1,9 @@
+node_modules/
+.env
+*.sqlite
+*.sqlite3
+backend/config/firebase-service-account.json
+backend/database.sqlite
+.DS_Store
+dist/
+build/
